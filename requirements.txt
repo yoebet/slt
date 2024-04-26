@@ -5,3 +5,10 @@ pydeck
 streamlit
 psycopg2-binary
 sqlalchemy
+streamlit-calendar
+watchdog
+openai
+langchain
+langchain-community
+anthropic
+promptlayer
